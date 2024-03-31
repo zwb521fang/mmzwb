@@ -1,5 +1,5 @@
 {
-  "name": "zhlist",
+  "name": "mmzwb",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwb521fang/zhlist.git"
+    "url": "git+https://github.com/zwb521fang/mmzwb.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -19,9 +19,9 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/zhlist/issues"
+    "url": "https://github.com/zwb521fang/mmzwb/issues"
   },
-  "homepage": "https://github.com/zwb521fang/zhlist#readme",
+  "homepage": "https://github.com/zwb521fang/mmzwb#readme",
   "dependencies": {
     "fangzwb2": "^1.0.0",
     "fangzwb1": "^1.0.0",
@@ -29,7 +29,6 @@
     "mmzwbmm3": "^1.0.0",
     "mmzwbmm2": "^1.0.0",
     "mmzwbmm1": "^1.0.0",
-    "mmzwbmm": "^1.0.0",
     "mmzwb1": "^1.0.0",
     "mm2022": "^1.0.0",
     "mm2021": "^1.0.0",
@@ -40,7 +39,7 @@
     "listmannew": "^1.0.0",
     "zwbutils": "^1.0.2",
     "zwblist": "^1.0.0",
-    "zwblist3": "^1.0.1",
+        "zwblist3": "^1.0.1",
     "zwblist4": "^1.0.0",
     "zwblist5": "^1.0.0",
     "zwblist6": "^1.0.0",
@@ -48,6 +47,7 @@
     "zwbfang": "^1.0.0",
     "zwbfang1": "^1.0.0",
     "mmlist": "^1.0.0",
+    "zhlist": "^1.0.0",
     "listman": "^1.0.0",
     "zhlistnew": "^1.0.0",
     "listnew": "^1.0.0",
